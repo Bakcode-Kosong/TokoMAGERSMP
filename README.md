@@ -1,7 +1,5 @@
 # vue-weather-ui
 
-Live Demo: https://bakcode-kosong.github.io/Uji-coba-web-Cuaca/
-
 ## Project setup
 ```
 npm install
